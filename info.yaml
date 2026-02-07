@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     455292759766657025       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     455301826476070913       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "FirstTapeOut Copy"      # Project title
   author:       "Viacheslav"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
